@@ -1,0 +1,5 @@
+{
+    "name" : "rabbitmq_service",
+    "description" : "simple building app using rabbimq",
+    "author" : "sjy_dv"
+}
