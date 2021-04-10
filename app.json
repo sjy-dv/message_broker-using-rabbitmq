@@ -1,5 +1,5 @@
 {
     "name" : "rabbitmq_service",
-    "description" : "simple building app using rabbimq",
+    "description" : "simple building app using rabbimq// app1 is include rabbimq in server api, app2 is disunite the rabbitmq like controller",
     "author" : "sjy_dv"
 }

@@ -2,9 +2,6 @@
     "name": "rabbitmsg",
     "version": "1.0.0",
     "main": "app.js",
-    "scripts": {
-        "start": "nodemon app.js"
-    },
     "dependencies": {
         "amqplib": "^0.7.1",
         "cors": "^2.8.5",
